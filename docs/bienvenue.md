@@ -28,6 +28,7 @@ Si tu découvres le serveur, commence ici :
 
 Pour bien profiter de Landaria, pense aussi à consulter :
 
+- 📚 [**Dex**](/docs/gameplay/dex) : collectionner tes souvenirs et échanger tes doubles.
 - 🌱 [**Farming**](/docs/gameplay/farming) : développer ton agriculture.
 - 🛡️ [**Claims**](/docs/gameplay/claim) : sécuriser tes constructions.
 - 💫 [**Guildes**](/docs/gameplay/guilde) : progresser avec ton groupe.
