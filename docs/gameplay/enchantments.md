@@ -41,13 +41,13 @@ Grâce aux **Poussières Magiques**.
 
 ### 📚 Livres d’enchantement (non identifiés)
 
-| **Rareté**     | **Prix**         | **Récompense obtenue**           |
-| -------------- | ---------------- | -------------------------------- |
-| **Simple**     | 5 000 Couronnes  | Un livre enchanté **Simple**     |
-| **Unique**     | 8 000 Couronnes  | Un livre enchanté **Unique**     |
-| **Élite**      | 10 000 Couronnes | Un livre enchanté **Élite**      |
-| **Mythique**   | 15 000 Couronnes | Un livre enchanté **Mythique**   |
-| **Légendaire** | 20 000 Couronnes | Un livre enchanté **Légendaire** |
+| **Rareté**     | **Prix**         | **Récompense obtenue**           | **Niveau requis**               |
+| -------------- | ---------------- | -------------------------------- | ------------------------------- |
+| **Simple**     | 5 000 Couronnes  | Un livre enchanté **Simple**     | Skill donjon niveau 5           |
+| **Unique**     | 8 000 Couronnes  | Un livre enchanté **Unique**     | Skill donjon niveau 10          |
+| **Élite**      | 10 000 Couronnes | Un livre enchanté **Élite**      | Skill donjon niveau 15          |
+| **Mythique**   | 15 000 Couronnes | Un livre enchanté **Mythique**   | Skill donjon niveau 20          |
+| **Légendaire** | 20 000 Couronnes | Un livre enchanté **Légendaire** | Skill donjon niveau 25          |
 
 ---
 
