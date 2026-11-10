@@ -93,9 +93,9 @@ Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
 | Frappe II              | Arc, Épée, Arbalète, Trident | Chance de foudroyer la victime                    | 3s       | 32%            | Attaquer (mob ou joueur)                                          |
 | Frappe III             | Arc, Épée, Arbalète, Trident | Chance de foudroyer la victime                    | 4s       | 40%            | Attaquer (mob ou joueur)                                          |
 | Aquatique I            | Casque         | Permet la respiration aquatique                   | X        | 100%           | Port du casque                                                    |
-| Fonte I                | Pioche         | Chance de faire fondre les minerais               | X        | 33%            | Miner                                                              |
-| Fonte II               | Pioche         | Chance de faire fondre les minerais               | X        | 66%            | Miner                                                             |
-| Fonte III              | Pioche         | Chance de faire fondre les minerais               | X        | 100%           | Miner                                                             |
+| Fonte I                | Pioche, Pelle         | Chance de faire fondre les blocks et minerais               | X        | 33%            | Miner                                                              |
+| Fonte II               | Pioche, Pelle         | Chance de faire fondre les blocks et minerais               | X        | 66%            | Miner                                                             |
+| Fonte III              | Pioche, Pelle         | Chance de faire fondre les blocks et minerais               | X        | 100%           | Miner                                                             |
 | Expérience I           | Pioche, Hache, Pelle | Chance de gagner plus d'exp (2-5) sur les minerais | 1s      | 15%            | Casser des minerais                                               |
 | Expérience II          | Pioche, Hache, Pelle | Chance de gagner plus d'exp (2-5) sur les minerais | 2s      | 30%            | Casser des minerais                                               |
 | Expérience III         | Pioche, Hache, Pelle | Chance de gagner plus d'exp (2-5) sur les minerais | 3s      | 45%            | Casser des minerais                                               |
